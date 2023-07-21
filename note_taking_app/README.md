@@ -1,6 +1,5 @@
 # Notes-App
 
-### NOTE: Updated version of this project: https://github.com/mudit999/Notes-App-Frontend
 
 Notes App is a safe, user friendly Web Note taking app.
 
@@ -14,10 +13,3 @@ Tech Stack used:
 - Backend: Node.js, Express, Mongoose
 - Database: MongoDB Atlas
 
-# Data-Flow Diagram
-![](https://github.com/mudit999/Notes-Mern-App/blob/master/demo/notesApp-Data-Flow.png)
-
-
-
-# Demo
-![](https://github.com/mudit999/Notes-Mern-App/blob/master/demo/notes-app-demo.gif)
